@@ -1,0 +1,235 @@
+body {
+
+    background-color:#e7e3d0 !important;
+
+}
+
+.container-fluid {
+
+
+    margin-right: 10%!important;
+    margin-left: 10%!important;
+    align-content: center;
+
+}
+
+
+
+.container-fluid {
+
+    background-color: #f7f5eb !important;
+    max-height: 500px;
+
+}
+
+.col-sm-12.multiChart1{
+
+    background-color: #f7f5eb;
+
+}
+
+.row{
+
+    background-color: #f7f5eb;
+
+}
+
+
+.center {
+    margin-top: 1%;
+    margin-bottom: 2%;
+    align-content: center;
+    text-align: center;
+    font-size: .9vw;
+
+}
+
+.centerL {
+    margin-top: 1%;
+    margin-bottom: 2%;
+    align-content: center;
+    text-align: center;
+    font-size: .9vw;
+    float: left;
+
+}
+
+.center2 {
+    margin-top: 1%;
+    align-content: center;
+    text-align: center;
+    font-size: .9vw;
+
+}
+
+
+.centerTitle {
+    margin-top: 2%;
+
+    align-content: center;
+    text-align: center;
+    font-size: 2vw;
+    font-family: Serif;
+
+}
+
+.centerTitle2 {
+    margin-top: 2%;
+    align-content: center;
+    text-align: center;
+    font-size: 2vw;
+    font-family: Serif;
+
+}
+
+
+.center.under {
+
+    color:white;
+    text-decoration: underline;
+
+}
+
+.mapborder {
+
+    margin:50%;
+
+}
+
+
+.row.first{
+
+
+    background-color:#222222;
+    color: #e7e3d0;
+}
+
+div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 60px;					
+    height: 28px;					
+    padding: 2px;				
+    font: 12px sans-serif;		
+    background: lightsteelblue;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
+
+path:hover {
+	fill-opacity: .7;
+}
+
+path:active {
+	fill-opacity: .1;
+	stroke: #000;
+}
+/* Legend Font Style */
+body {
+	font: 11px sans-serif;
+	background-color: #ffffff;
+}
+        
+/* Legend Position Style */
+.legend {
+	position:absolute;
+	left:20px;
+	top:30px;
+}
+
+.axis text {
+	font: 10px sans-serif;
+}
+
+
+.axis line, .axis path {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+
+.mapcon2 {
+
+  float: left;
+
+
+
+
+}
+
+.slider {
+
+    float: left;
+
+}
+.namText {
+
+    font-size: 30px;
+    font-weight: bold;
+    color: #484848;
+    margin: 0;
+
+}
+.button.replay {
+    background-color: #424242; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .nameeText {
+
+    font-size: 12px;
+    margin: 0;
+
+}
+.down {
+
+   
+    margin-top: 100px;
+
+}
+
+.col-sm-1.leg {
+
+    height: 490;
+    float: center;
+
+
+}
+
+.fleft{
+
+    float: left;
+
+
+}
+
+.nameText{
+    float:left;
+    padding-right: 40px;
+}
+
+.button_replay{
+    background-color: #f7f5eb;
+    color: #484848;
+    border: 2px solid lightsteelblue; /* Green */
+    border-radius: 8px;
+    transition-duration: 0.4s;
+  }
+  .buttonText{
+    padding: 10px;
+    font-weight: bold;
+  }
+  
+  .button_replay:hover {
+    background-color: lightsteelblue;
+    color: black;
+    border-radius: 8px;
+  }
+
+
